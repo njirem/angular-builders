@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@angular-builders/custom-webpack@2.5.0":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@angular-builders/custom-webpack/-/custom-webpack-2.5.0.tgz#4978a30e5e76414672000760a4362aa830cf066a"
+"@angular-builders/custom-webpack@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@angular-builders/custom-webpack/-/custom-webpack-2.5.3.tgz#6bd1ffd801e0c9c0833cbb75c829fae41414bd68"
   dependencies:
     lodash "^4.17.10"
 
